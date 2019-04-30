@@ -4,7 +4,7 @@ const style = {
   bgDark: {
     backgroundColor: `rgb(1,0,1)`,
     position: `fixed`,
-    top: 0,
+    top: 0
   }
 }
 
