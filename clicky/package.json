@@ -2,7 +2,7 @@
   "name": "clicky",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Zam0411/Clicky-Game",
+  "homepage": "https://github.com/Zam0411/Clicky-Game/tree/master/clicky",
   "dependencies": {
     "animate.css": "^3.7.0",
     "gh-pages": "^2.0.1",
