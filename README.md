@@ -1,3 +1,5 @@
+Link to deployed site on github: https://zam0411.github.io/Clicky-Game/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
